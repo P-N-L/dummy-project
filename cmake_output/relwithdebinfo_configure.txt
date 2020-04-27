@@ -1,0 +1,8 @@
+[main] Configuring folder: dummy-project
+[proc] Executing command: C:\env\packages\no_compiler\cmake\3.14.7\bin\cmake.EXE --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -Hc:/Users/username/pnl/repos/dummy-project -Bc:/Users/username/pnl/repos/dummy-project/build -G "Visual Studio 15 2017" -A x64
+[cmake] Not searching for unused variables given on the command line.
+[cmake] CMAKE_BUILD_TYPE not passed to configure as of CMake Tools v1.3.1:
+[cmake] CMAKE_BUILD_TYPE after default is handled (if necessary): Debug
+[cmake] -- Configuring done
+[cmake] -- Generating done
+[cmake] -- Build files have been written to: C:/Users/username/pnl/repos/dummy-project/build

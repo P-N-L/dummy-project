@@ -1,4 +1,11 @@
-[main] Building folder: dummy-project ALL_BUILD
+[main] Building folder: dummy-project clean
+[build] Starting build
+[proc] Executing command: C:\env\packages\no_compiler\cmake\3.14.7\bin\cmake.EXE --build c:/Users/username/pnl/repos/dummy-project/build --config Debug --target clean --
+[build] Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+[build] Copyright (C) Microsoft Corporation. All rights reserved.
+[build]
+[build] Build finished with exit code 0
+[main] Building folder: dummy-project
 [build] Starting build
 [proc] Executing command: C:\env\packages\no_compiler\cmake\3.14.7\bin\cmake.EXE --build c:/Users/username/pnl/repos/dummy-project/build --config Debug --target ALL_BUILD -- /maxcpucount:18
 [build] Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
@@ -10,6 +17,4 @@
 [build]   CMake does not need to re-run because C:/Users/username/pnl/repos/dummy-project/build/CMakeFiles/generate.stamp is up-to-date.
 [build]   main.cpp
 [build]   HelloWorld.vcxproj -> C:\Users\username\pnl\repos\dummy-project\build\Debug\HelloWorld.exe
-[build]   Building Custom Rule C:/Users/username/pnl/repos/dummy-project/CMakeLists.txt
-[build]   CMake does not need to re-run because C:/Users/username/pnl/repos/dummy-project/build/CMakeFiles/generate.stamp is up-to-date.
 [build] Build finished with exit code 0

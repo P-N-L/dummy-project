@@ -1,0 +1,21 @@
+[main] Building folder: dummy-project clean
+[build] Starting build
+[proc] Executing command: C:\env\packages\no_compiler\cmake\3.14.7\bin\cmake.EXE --build c:/Users/laurepn1/pnl/repos/dummy-project/build --config Debug --target clean --
+[build] Microsoft (R) Build Engine version 14.0.25420.1
+[build] Copyright (C) Microsoft Corporation. All rights reserved.
+[build]
+[build] Build finished with exit code 0
+[main] Building folder: dummy-project
+[build] Starting build
+[proc] Executing command: C:\env\packages\no_compiler\cmake\3.14.7\bin\cmake.EXE --build c:/Users/laurepn1/pnl/repos/dummy-project/build --config Debug --target ALL_BUILD -- /maxcpucount:18
+[build] Microsoft (R) Build Engine version 14.0.25420.1
+[build] Copyright (C) Microsoft Corporation. All rights reserved.
+[build]
+[build]   Checking Build System
+[build]   CMake does not need to re-run because C:/Users/laurepn1/pnl/repos/dummy-project/build/CMakeFiles/generate.stamp is up-to-date.
+[build]   Building Custom Rule C:/Users/laurepn1/pnl/repos/dummy-project/CMakeLists.txt
+[build]   CMake does not need to re-run because C:/Users/laurepn1/pnl/repos/dummy-project/build/CMakeFiles/generate.stamp is up-to-date.
+[build]   main.cpp
+[build]   HelloWorld.vcxproj -> C:\Users\laurepn1\pnl\repos\dummy-project\build\Debug\HelloWorld.exe
+[build]   HelloWorld.vcxproj -> C:/Users/laurepn1/pnl/repos/dummy-project/build/Debug/HelloWorld.pdb (Full PDB)
+[build] Build finished with exit code 0

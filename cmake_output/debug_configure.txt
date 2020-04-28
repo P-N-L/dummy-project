@@ -1,5 +1,0 @@
-[cmake] CMAKE_BUILD_TYPE not passed to configure as of CMake Tools v1.3.1:
-[cmake] CMAKE_BUILD_TYPE after default is handled (if necessary): Debug
-[cmake] -- Configuring done
-[cmake] -- Generating done
-[cmake] -- Build files have been written to: C:/Users/username/pnl/repos/dummy-project/build

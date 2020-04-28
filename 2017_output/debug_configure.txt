@@ -3,6 +3,13 @@
 [cmake] Not searching for unused variables given on the command line.
 [cmake] CMAKE_BUILD_TYPE not passed to configure as of CMake Tools v1.3.1:
 [cmake] CMAKE_BUILD_TYPE after default is handled (if necessary): Debug
+[cmake] -- The CXX compiler identification is MSVC 19.16.27025.1
+[cmake] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x64/cl.exe
+[cmake] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x64/cl.exe -- works
+[cmake] -- Detecting CXX compiler ABI info
+[cmake] -- Detecting CXX compiler ABI info - done
+[cmake] -- Detecting CXX compile features
+[cmake] -- Detecting CXX compile features - done
 [cmake] -- Configuring done
 [cmake] -- Generating done
 [cmake] -- Build files have been written to: C:/Users/username/pnl/repos/dummy-project/build
